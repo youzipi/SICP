@@ -12,5 +12,3 @@
   [n]
   (fib-iter 1, 0, n))
 
-
-(println (fib 10))
