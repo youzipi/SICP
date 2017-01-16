@@ -16,6 +16,7 @@
   )
 
 
+
 (defn double
   "docstring"
   [x]
@@ -49,4 +50,3 @@
 (println (double 3))
 (println (halve 3))
 (println (fast-multiply 3 5))
-

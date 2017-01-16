@@ -1,4 +1,4 @@
-(ns ch1.expt)
+(ns ch1.expect_1_16)
 
 ; 1.2.4 求幂
 ; b^n
